@@ -1,0 +1,435 @@
+03:10:24.053 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+03:10:24.204 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+03:10:24.670 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+03:10:24.717 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+03:10:24.718 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+03:10:24.978 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+03:10:25.757 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+03:10:25.758 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+03:13:25.503 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+03:13:25.646 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+03:13:26.318 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+03:13:26.364 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+03:13:26.364 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+03:13:26.604 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+03:13:27.537 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+03:13:27.537 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+03:22:32.290 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+03:22:32.431 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+03:22:32.913 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+03:22:32.959 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+03:22:32.960 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+03:22:33.227 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+03:22:34.082 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+03:22:34.082 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+00:52:31.749 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+00:52:31.891 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+00:52:32.347 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+00:52:32.392 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+00:52:32.392 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+00:52:32.645 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+00:52:33.399 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+00:52:33.399 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+01:09:43.372 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+01:09:43.521 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+01:09:44.003 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+01:09:44.052 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+01:09:44.052 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+01:09:44.310 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+01:09:45.175 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+01:09:45.178 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+01:10:13.315 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+01:10:13.459 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+01:10:13.983 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+01:10:14.037 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+01:10:14.038 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+01:10:14.324 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+01:10:15.093 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+01:10:15.093 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-10-25_01:11:52.980 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-25_01:11:53.127 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-25_01:11:53.637 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-25_01:11:53.683 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-25_01:11:53.683 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-25_01:11:53.940 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-25_01:11:54.655 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-10-25_01:11:54.655 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-10-25_01:19:25.415 [TestNG-tests-2] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-25_01:19:25.529 [TestNG-tests-1] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-25_01:19:25.577 [TestNG-tests-2] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-25_01:19:25.632 [TestNG-tests-1] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-25_01:19:26.110 [TestNG-tests-2] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-25_01:19:26.163 [TestNG-tests-2] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-25_01:19:26.163 [TestNG-tests-2] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-25_01:19:26.168 [TestNG-tests-1] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-25_01:19:26.211 [TestNG-tests-1] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-25_01:19:26.211 [TestNG-tests-1] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-25_01:19:26.447 [TestNG-tests-2] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-25_01:19:26.474 [TestNG-tests-1] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-25_01:19:27.283 [TestNG-tests-1] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-10-25_01:19:27.283 [TestNG-tests-2] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-10-25_01:19:27.283 [TestNG-tests-2] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-10-25_01:19:27.283 [TestNG-tests-1] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-10-25_01:35:18.576 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-25_01:35:18.722 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-25_01:35:19.290 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-25_01:35:19.332 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-25_01:35:19.332 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-25_01:35:19.585 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-25_01:35:20.495 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-10-25_01:35:20.495 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-10-28_12:58:49.667 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-28_12:58:49.814 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-28_12:58:50.329 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-28_12:58:50.372 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-28_12:58:50.373 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-28_12:58:50.610 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-28_12:58:51.368 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-10-28_12:58:51.368 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-10-28_13:02:49.431 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-28_13:02:49.578 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-28_13:02:50.042 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-28_13:02:50.086 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-28_13:02:50.086 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-28_13:02:50.329 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-28_13:15:14.051 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-28_13:15:14.195 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-28_13:15:14.713 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-28_13:15:14.756 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-28_13:15:14.756 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-28_13:15:15.000 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-28_13:15:15.772 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-10-28_13:15:15.772 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-10-28_13:16:41.599 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-28_13:16:41.736 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-28_13:16:42.220 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-28_13:16:42.261 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-28_13:16:42.261 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-28_13:16:42.534 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-28_13:18:14.308 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-28_13:18:14.458 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-28_13:18:14.919 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-28_13:18:14.961 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-28_13:18:14.961 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-28_13:18:15.186 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-28_13:19:59.693 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-28_13:19:59.833 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-28_13:20:00.412 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-28_13:20:00.455 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-28_13:20:00.455 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-28_13:20:00.693 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-28_13:26:42.031 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-28_13:26:42.165 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-28_13:26:42.635 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-28_13:26:42.679 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-28_13:26:42.679 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-28_13:26:42.915 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-10-28_13:31:52.517 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-10-28_13:31:52.651 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-10-28_13:31:53.215 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-10-28_13:31:53.258 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-10-28_13:31:53.258 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-10-28_13:31:53.471 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-11-01_02:31:53.725 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-11-01_02:31:53.864 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-11-01_02:31:54.320 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-11-01_02:31:54.359 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-11-01_02:31:54.359 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-11-01_02:31:54.579 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-11-01_02:31:55.316 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-11-01_02:31:55.317 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-11-01_02:32:00.219 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2023-11-01_02:34:43.459 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-11-01_02:34:43.584 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-11-01_02:34:44.044 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-11-01_02:34:44.088 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-11-01_02:34:44.088 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-11-01_02:34:44.321 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-11-01_02:34:45.050 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-11-01_02:34:45.050 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-11-01_02:34:49.672 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2023-11-01_02:39:26.083 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-11-01_02:39:26.219 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-11-01_02:39:26.691 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-11-01_02:39:26.731 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-11-01_02:39:26.731 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-11-01_02:39:26.953 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-11-01_02:39:27.669 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-11-01_02:39:27.671 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-11-01_02:39:32.515 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2023-11-01_02:39:32.975 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2023-11-01_02:39:33.019 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2023-11-01_02:39:33.019 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2023-11-01_02:39:33.218 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2023-11-01_02:39:34.065 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2023-11-01_02:39:34.093 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2023-11-01_02:39:34.120 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2023-11-01_02:39:34.297 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 01/11/2023
+2023-11-01_02:39:34.422 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - olHcJLUHgn7436160752
+2023-11-01_02:39:34.770 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2023-11-01_02:39:34.902 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully created an appointment
+2023-11-01_02:39:34.903 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Finished TC002_ScheduleAppointmentTest ***
+2023-11-02_10:47:13.777 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-11-02_10:47:13.905 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-11-02_10:47:14.366 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-11-02_10:47:14.410 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-11-02_10:47:14.411 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-11-02_10:47:14.646 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-11-02_10:47:15.371 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-11-02_10:47:15.371 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-11-02_10:47:20.810 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2023-11-02_10:47:21.304 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2023-11-02_10:47:21.349 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2023-11-02_10:47:21.350 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2023-11-02_10:47:21.573 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2023-11-02_10:47:22.471 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2023-11-02_10:47:22.501 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2023-11-02_10:47:22.530 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2023-11-02_10:47:22.723 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 02/11/2023
+2023-11-02_10:47:22.847 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - XXvBwTubUF8373512092
+2023-11-02_10:47:23.276 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2023-11-02_11:03:47.793 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-11-02_11:03:47.921 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-11-02_11:03:48.401 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-11-02_11:03:48.440 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-11-02_11:03:48.441 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-11-02_11:03:48.666 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-11-02_11:03:49.454 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-11-02_11:03:49.454 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-11-02_11:03:54.591 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2023-11-02_11:03:55.086 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2023-11-02_11:03:55.134 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2023-11-02_11:03:55.134 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2023-11-02_11:03:55.348 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2023-11-02_11:03:56.236 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2023-11-02_11:03:56.264 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2023-11-02_11:03:56.288 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2023-11-02_11:03:56.443 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 02/11/2023
+2023-11-02_11:03:56.588 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - gmnxzRlVoV3503057594
+2023-11-02_11:03:56.956 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2023-11-02_11:04:45.740 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2023-11-02_11:04:45.867 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2023-11-02_11:04:46.338 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2023-11-02_11:04:46.376 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2023-11-02_11:04:46.377 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2023-11-02_11:04:46.593 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2023-11-02_11:04:47.354 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2023-11-02_11:04:47.354 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2023-11-02_11:04:52.735 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2023-11-02_11:04:53.223 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2023-11-02_11:04:53.266 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2023-11-02_11:04:53.266 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2023-11-02_11:04:53.482 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2023-11-02_11:04:54.375 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2023-11-02_11:04:54.405 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2023-11-02_11:04:54.431 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2023-11-02_11:04:54.594 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 02/11/2023
+2023-11-02_11:04:54.714 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - EOSKcKUpGi0927254063
+2023-11-02_11:04:55.147 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-01-20_13:12:07.189 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-01-20_13:12:09.816 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-01-20_13:12:09.841 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-01-20_13:12:31.226 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-01-20_13:12:31.226 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-01-20_13:12:52.383 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-01-20_13:12:52.383 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-01-20_13:13:13.546 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-01-20_13:13:13.546 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-01-20_13:13:15.321 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-04-03_17:24:26.698 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-04-03_17:24:29.231 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-04-03_17:24:29.251 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-04-03_17:24:50.708 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-04-03_17:24:50.714 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-04-03_17:25:11.906 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-04-03_17:25:11.914 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-04-03_17:25:33.159 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-04-03_17:25:33.159 [main] INFO  testcases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2024-04-03_17:25:35.220 [main] INFO  testcases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+2024-04-07_10:57:41.819 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_10:57:41.971 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_10:57:42.496 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_10:57:42.546 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_10:57:42.546 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_10:57:42.840 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_10:57:43.667 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_10:57:43.667 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_10:58:11.955 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_10:58:13.247 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_10:58:13.309 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_10:58:13.310 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_10:58:13.600 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_10:58:14.500 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_10:58:14.537 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_10:58:14.571 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_10:58:14.776 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_10:58:14.924 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - XvdNCxzFlg0645082433
+2024-04-07_10:58:15.453 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_11:02:21.900 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_11:02:22.045 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_11:02:22.579 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_11:02:22.632 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_11:02:22.632 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_11:02:22.935 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_11:02:23.738 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_11:02:23.738 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_11:02:28.536 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_11:02:29.189 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_11:02:29.241 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_11:02:29.241 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_11:02:29.520 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_11:02:30.533 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_11:02:30.565 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_11:02:30.595 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_11:02:30.779 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_11:02:30.907 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - lEomadjEbG7340458679
+2024-04-07_11:02:31.348 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_11:03:50.796 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_11:03:50.937 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_11:03:51.768 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_11:03:51.821 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_11:03:51.821 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_11:03:52.086 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_11:03:52.942 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_11:03:52.942 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_11:03:57.664 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_11:03:58.299 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_11:03:58.363 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_11:03:58.363 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_11:03:58.644 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_11:03:59.599 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_11:03:59.629 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_11:03:59.664 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_11:03:59.856 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_11:04:00.016 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - yOGuCowLHw7573265165
+2024-04-07_11:04:00.483 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_11:04:00.580 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully created an appointment
+2024-04-07_11:04:00.580 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Finished TC002_ScheduleAppointmentTest ***
+2024-04-07_11:05:03.297 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_11:05:03.447 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_11:05:04.258 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_11:05:04.311 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_11:05:04.311 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_11:05:04.590 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_11:05:05.409 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_11:05:05.409 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_11:05:11.056 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_11:05:11.963 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_11:05:12.027 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_11:05:12.028 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_11:05:12.291 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_11:05:13.233 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_11:05:13.264 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_11:05:13.294 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_11:05:13.502 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_11:05:13.638 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - xJomVnPaBQ1266214850
+2024-04-07_11:05:14.101 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_12:35:18.636 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_12:35:18.795 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_12:35:19.644 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_12:35:19.700 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_12:35:19.700 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_12:35:19.984 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_12:35:21.013 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_12:35:21.014 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_12:35:26.684 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_12:35:27.279 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_12:35:27.329 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_12:35:27.330 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_12:35:27.626 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_12:35:28.751 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_12:35:28.783 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_12:35:28.823 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_12:35:29.010 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_12:35:29.152 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - DaiTQtTjlk6251046872
+2024-04-07_12:35:29.613 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_12:37:02.667 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_12:37:02.831 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_12:37:03.330 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_12:37:03.378 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_12:37:03.378 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_12:37:03.668 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_12:37:04.641 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_12:37:04.641 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_12:37:09.459 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_12:37:10.261 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_12:37:10.327 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_12:37:10.328 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_12:37:10.624 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_12:37:11.580 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_12:37:11.615 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_12:37:11.645 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_12:37:11.839 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_12:37:11.978 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - tCcbLcatHE9911148824
+2024-04-07_12:37:12.327 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_12:43:57.804 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_12:43:57.963 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_12:43:58.488 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_12:43:58.540 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_12:43:58.541 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_12:43:58.820 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_12:43:59.689 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_12:43:59.690 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_12:44:49.587 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_12:44:49.733 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_12:44:50.207 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_12:44:50.257 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_12:44:50.258 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_12:44:50.548 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_12:44:51.349 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_12:44:51.352 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_12:44:57.353 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_12:44:58.121 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_12:44:58.187 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_12:44:58.188 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_12:44:58.468 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_12:44:59.479 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_12:44:59.509 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_12:44:59.538 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_12:44:59.736 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_12:44:59.872 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - fIKwZGYfRp3717341869
+2024-04-07_12:45:00.341 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_12:45:00.443 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully created an appointment
+2024-04-07_12:45:00.443 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Finished TC002_ScheduleAppointmentTest ***
+2024-04-07_13:16:42.066 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_13:16:42.218 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_13:16:42.986 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_13:16:43.042 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_13:16:43.042 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_13:16:43.321 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_13:16:44.109 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_13:16:44.109 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_13:16:49.713 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_13:16:50.523 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_13:16:50.581 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_13:16:50.582 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_13:16:50.846 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_13:16:51.821 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_13:16:51.852 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_13:16:51.880 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_13:16:52.048 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_13:16:52.186 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - EWBcyduRzs4294835616
+2024-04-07_13:16:52.624 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_13:16:52.768 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully created an appointment
+2024-04-07_13:16:52.769 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Finished TC002_ScheduleAppointmentTest ***
+2024-04-07_13:17:53.813 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_13:17:53.963 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage
+2024-04-07_13:17:54.557 [main] INFO  testcases.TC001_LoginValidationTest - Clicked on the Make Appointment button
+2024-04-07_13:17:54.604 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Login Page
+2024-04-07_13:17:54.605 [main] INFO  testcases.TC001_LoginValidationTest - Adding Login credentials
+2024-04-07_13:17:54.918 [main] INFO  testcases.TC001_LoginValidationTest - Clicking on Login button
+2024-04-07_13:17:55.859 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Schedule Appointment Page
+2024-04-07_13:17:55.859 [main] INFO  testcases.TC001_LoginValidationTest - ****** Finished TC001_LoginValidationTest *******
+2024-04-07_13:18:01.142 [main] INFO  testcases.TC002_ScheduleAppointmentTest - *** Starting TC002_ScheduleAppointmentTest ***
+2024-04-07_13:18:01.681 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on the Make Appointment button
+2024-04-07_13:18:01.744 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Successfully navigated to Aura Login Page
+2024-04-07_13:18:01.744 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Adding Login credentials
+2024-04-07_13:18:02.033 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicking on Login button
+2024-04-07_13:18:03.392 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Facility added for the patient - Seoul CURA Healthcare Center
+2024-04-07_13:18:03.429 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Checked the Re-Admission checkbox
+2024-04-07_13:18:03.466 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Health care selected
+2024-04-07_13:18:03.653 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Visit date specified - 07/04/2024
+2024-04-07_13:18:03.794 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Comments specified - MoDNawvnjx0151060678
+2024-04-07_13:18:04.221 [main] INFO  testcases.TC002_ScheduleAppointmentTest - Clicked on Book Appointment button
+2024-04-07_13:21:35.048 [main] INFO  testcases.TC001_LoginValidationTest - ****** Starting TC001_LoginValidationTest *******
+2024-04-07_13:21:35.196 [main] INFO  testcases.TC001_LoginValidationTest - Successfully navigated to Aura Homepage

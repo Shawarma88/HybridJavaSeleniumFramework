@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="AuraAutomationSuite" verbose="1" parallel="tests" >
+    <test name="LoginTest_CHROME" >
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="testcases.TC001_LoginValidationTest"/>
+        </classes>
+    </test>
+    <test name="LoginTest_EDGE" >
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="testcases.TC001_LoginValidationTest"/>
+        </classes>
+    </test>
+</suite>
