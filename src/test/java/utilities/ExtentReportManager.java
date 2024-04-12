@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
+import java.util.Properties;
 
 import org.testng.ITestContext;
 import org.testng.ITestListener;
@@ -23,15 +24,22 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 
 import testBase.BaseClass;
 
+import javax.mail.*;
+import javax.mail.internet.InternetAddress;
+import javax.mail.internet.MimeBodyPart;
+import javax.mail.internet.MimeMessage;
+import javax.mail.internet.MimeMultipart;
+
 public class ExtentReportManager implements ITestListener {
 	public ExtentSparkReporter sparkReporter;
 	public ExtentReports extent;
 	public ExtentTest test;
 
 	String repName;
+	String timeStamp;
 
 	public void onStart(ITestContext testContext) {
-		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());// time stamp
+		timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());// time stamp
 		repName = "Test-Report-" + timeStamp + ".html";
 		//creates a basic UI of the report
 		sparkReporter = new ExtentSparkReporter(".\\reports\\" + repName);// specify location of the report
@@ -96,27 +104,53 @@ public class ExtentReportManager implements ITestListener {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		try {
+			sendEmail("shawarmacodewith@gmail.com","wrxn aovy qydm lwda", "a.gokul9826@gmail.com" );
+		} catch (MessagingException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	public void sendEmail(String userName, String password, String recipient) throws MessagingException, IOException {
+		// Add the Properties
+		Properties prop = new Properties();
+		prop.put("mail.smtp.auth", "true");
+		prop.put("mail.smtp.starttls.enable","true");
+		prop.put("mail.smtp.host", "smtp.gmail.com");
+		prop.put("mail.smtp.port", "587");
 
-		/*
-		 * try { URL url = new
-		 * URL("file:///"+System.getProperty("user.dir")+"\\reports\\"+repName);
-		 * 
-		 * // Create the email message 
-		 * ImageHtmlEmail email = new ImageHtmlEmail();
-		 * email.setDataSourceResolver(new DataSourceUrlResolver(url));
-		 * email.setHostName("smtp.googlemail.com"); 
-		 * email.setSmtpPort(465);
-		 * email.setAuthenticator(new DefaultAuthenticator("a.gokul9826@gmail.com","password"));
-		 * email.setSSLOnConnect(true);
-		 * email.setFrom("a.gokul9826@gmail.com"); //Sender
-		 * email.setSubject("Test Results");
-		 * email.setMsg("Please find Attached Report....");
-		 * email.addTo("shawarmacodewith@gmail.com"); //Receiver
-		 * email.attach(url, "extent report", "please check report..."); 
-		 * email.send(); // send the email 
-		 * }
-		 * catch(Exception e) { e.printStackTrace(); }
-		 */
+		//Create session
+		Session session = Session.getInstance(prop, new Authenticator() {
+			@Override
+			protected PasswordAuthentication getPasswordAuthentication() {
+				return new PasswordAuthentication(userName, password);
+			}
+		});
+		// Create message
+		MimeMessage message = new MimeMessage(session);
+		message.setFrom(new InternetAddress(userName));
+		message.setRecipient(Message.RecipientType.TO, new InternetAddress(recipient));
+		message.setSubject("Execution report of Cura Automation testcases");
+		message.setDescription("Cura Automation run report on "+timeStamp);
+		String filepath = ".\\reports\\" + repName;
+		String filename = repName;
+		MimeMultipart multipart = new MimeMultipart();
+		//Bodypart-1 attachments
+		MimeBodyPart attachment = new MimeBodyPart();
+		attachment.attachFile(filepath);
+		attachment.setFileName(filename);
+		//Bodypart-2 Text
+		MimeBodyPart text = new MimeBodyPart();
+		text.setText("Attached is the execution report of Cura Automation on "+timeStamp);
+		//Add to the multipart
+		multipart.addBodyPart(attachment);
+		multipart.addBodyPart(text);
+		// set content
+		message.setContent(multipart);
+		//send email
+		Transport.send(message);
+		System.out.println("Email Successfully");
 	}
 
 }
