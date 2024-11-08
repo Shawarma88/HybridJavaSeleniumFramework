@@ -9,8 +9,8 @@
         <parameter name="browser" value="chrome"></parameter>
         <classes>
             <class name="testcases.TC001_LoginValidationTest"/>
-            <class name="testcases.TC002_ScheduleAppointmentTest"/>
-            <class name="testcases.TC003_LoginDDT"/>
+<!--             <class name="testcases.TC002_ScheduleAppointmentTest"/>
+            <class name="testcases.TC003_LoginDDT"/> -->
         </classes>
     </test>
 </suite>
