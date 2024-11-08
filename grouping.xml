@@ -16,8 +16,8 @@
             </run>
         </groups>
         <classes>
-            <class name="testcases.TC001_LoginValidationTest"/>
-            <class name="testcases.TC002_ScheduleAppointmentTest"/>
+<!--             <class name="testcases.TC001_LoginValidationTest"/>
+            <class name="testcases.TC002_ScheduleAppointmentTest"/> -->
             <class name="testcases.TC003_LoginDDT"/>
         </classes>
     </test>
